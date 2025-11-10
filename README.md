@@ -1,10 +1,3 @@
-<!-- Hiệu ứng chữ chạy -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=14A9F7&center=true&vCenter=true&width=600&lines=Chào+bạn,+mình+là+YOUR-USERNAME;Fullstack+Developer;Yêu+thích+Backend%2C+Database+và+Hệ+thống;Rất+hân+hạnh+được+kết+nối+🤝">
-</p>
-
----
-
 ### 👋 Giới thiệu
 - 💼 Hiện mình đang làm việc với **PHP (Laravel) + Vue**
 - 🚀 Mục tiêu: Xây dựng hệ thống mạnh, ổn định, dễ mở rộng
@@ -21,10 +14,6 @@
 | Database | ![MySQL](https://img.shields.io/badge/MySQL-00618A?logo=mysql&logoColor=white) |
 | DevOps | ![Docker](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-2AAA52?logo=nginx&logoColor=white) |
 
-### 🔥 Contribution Heatmap
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 ---
 
