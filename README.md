@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Quoc+Binh+Tran;Laravel+Developer+from+Culigo;Full-Stack+Developer+at+Culidev;Passionate+about+Web+Technologies!" alt="Typing SVG" />
+</div>
+
 ### 👋 Giới thiệu
 - 💼 Hiện mình đang làm việc với **PHP (Laravel) + Vue**
 - 🚀 Mục tiêu: Xây dựng hệ thống mạnh, ổn định, dễ mở rộng
