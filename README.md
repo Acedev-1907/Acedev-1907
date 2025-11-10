@@ -21,16 +21,6 @@
 | Database | ![MySQL](https://img.shields.io/badge/MySQL-00618A?logo=mysql&logoColor=white) |
 | DevOps | ![Docker](https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-2AAA52?logo=nginx&logoColor=white) |
 
----
-
-### 📊 Github Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 Contribution Heatmap
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true" />
