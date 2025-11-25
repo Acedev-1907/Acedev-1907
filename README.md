@@ -24,7 +24,7 @@
 ### 📫 Liên hệ
 | Mạng xã hội | Link |
 |------------|------|
-| Email | thanhqui19072000@example.com |
+| Email | thanhqui19072000@gmail.com |
 
 ---
 
